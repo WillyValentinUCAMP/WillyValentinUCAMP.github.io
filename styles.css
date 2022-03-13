@@ -109,7 +109,7 @@ button {
 .main-form {
     text-align: left;
     color: #fc4700;
-    top: 63em;
+    top: 76em;
     position: absolute;
     left: 38%;
 }
@@ -179,4 +179,15 @@ button {
     .main-footer .main-footer-text {
         padding-left: 11em;
     }
+}
+
+.jumbotron {
+    background-size: contain;
+    background-color: rgb(172, 251, 251);
+    text-align: center;
+    padding-top: 1px;
+}
+
+.hr {
+    color: #000;
 }
